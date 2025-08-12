@@ -24,7 +24,8 @@ challenge-amigo-secreto/
 ├── index.html # Estrutura HTML da aplicação
 ├── style.css # Arquivo de estilos CSS
 ├── app.js # Lógica em JavaScript
-└── assets/ #Abra o arquivo index.html em qualquer navegador moderno. Imagens e ícones usados no projeto
+└── assets/ #Abra o arquivo index.html em qualquer navegador moderno. 
+Imagens e ícones usados no projeto
 
 ## Tecnologias utilizadas
 
